@@ -4,6 +4,8 @@ redirect to https://github.com/0oVicero0/serverSpeeder_Install
 blog https://moeclub.org/2017/03/08/14/
 ====================================================================================
 wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh" && bash /tmp/appex.sh 'install'
+
+
 安装一开始的时候，会提示：
 
 Press Enter to Continue...
